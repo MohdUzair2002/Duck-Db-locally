@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./duck_db_locally
+  code_source:
+    module_name: duck_db_locally.definitions
+  location_name: duck_db_locally
